@@ -1,0 +1,16 @@
+body
+{
+	background-color:#EFEFEF;
+	font-family: "Lucida Console";
+	font-size: 20pt;
+}
+h1
+{
+	color:#007F7F;
+	text-align:center;
+}
+p
+{
+	font-family:"Consolas";
+	font-size: 15pt;
+}
